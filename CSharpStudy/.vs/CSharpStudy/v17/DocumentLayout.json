@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A820D46-83DC-4360-AF16-24E37AB6C245}|CSharpLearn.BenchmarkDotNetDemo\\CSharpLearn.BenchmarkDotNetDemo.csproj|e:\\home\\csharp\\csharpdemo\\csharpstudy\\csharplearn.benchmarkdotnetdemo\\simpledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A820D46-83DC-4360-AF16-24E37AB6C245}|CSharpLearn.BenchmarkDotNetDemo\\CSharpLearn.BenchmarkDotNetDemo.csproj|solutionrelative:csharplearn.benchmarkdotnetdemo\\simpledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A820D46-83DC-4360-AF16-24E37AB6C245}|CSharpLearn.BenchmarkDotNetDemo\\CSharpLearn.BenchmarkDotNetDemo.csproj|e:\\home\\csharp\\csharpdemo\\csharpstudy\\csharplearn.benchmarkdotnetdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A820D46-83DC-4360-AF16-24E37AB6C245}|CSharpLearn.BenchmarkDotNetDemo\\CSharpLearn.BenchmarkDotNetDemo.csproj|solutionrelative:csharplearn.benchmarkdotnetdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleDemo.cs",
+              "DocumentMoniker": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpLearn.BenchmarkDotNetDemo\\SimpleDemo.cs",
+              "RelativeDocumentMoniker": "CSharpLearn.BenchmarkDotNetDemo\\SimpleDemo.cs",
+              "ToolTip": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpLearn.BenchmarkDotNetDemo\\SimpleDemo.cs",
+              "RelativeToolTip": "CSharpLearn.BenchmarkDotNetDemo\\SimpleDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:32:01.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpLearn.BenchmarkDotNetDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpLearn.BenchmarkDotNetDemo\\Program.cs",
+              "ToolTip": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpLearn.BenchmarkDotNetDemo\\Program.cs",
+              "RelativeToolTip": "CSharpLearn.BenchmarkDotNetDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:30:35.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
