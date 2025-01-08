@@ -5,7 +5,15 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BenchmarkDotNet", "BenchmarkDotNet", "{B361D2A5-D7E0-4D60-A6C4-E7BA57936872}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLearn.BenchmarkDotNetDemo", "CSharpLearn.BenchmarkDotNetDemo\CSharpLearn.BenchmarkDotNetDemo.csproj", "{4A820D46-83DC-4360-AF16-24E37AB6C245}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpLearn.BenchmarkDotNetDemo", "CSharpLearn.BenchmarkDotNetDemo\CSharpLearn.BenchmarkDotNetDemo.csproj", "{4A820D46-83DC-4360-AF16-24E37AB6C245}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpStudy.ReflectionDemo", "CSharpStudy.ReflectionDemo\CSharpStudy.ReflectionDemo.csproj", "{60434B84-33C9-4168-B14E-A478A4EB6A83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "反射", "反射", "{B0224B03-C518-4999-B007-B2356426740A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "新语法", "新语法", "{F53D97A1-806C-45D1-AFD8-770FA805BDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudy.NewGrammer", "CSharpStudy.NewGrammer\CSharpStudy.NewGrammer.csproj", "{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +25,22 @@ Global
 		{4A820D46-83DC-4360-AF16-24E37AB6C245}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A820D46-83DC-4360-AF16-24E37AB6C245}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A820D46-83DC-4360-AF16-24E37AB6C245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60434B84-33C9-4168-B14E-A478A4EB6A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60434B84-33C9-4168-B14E-A478A4EB6A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60434B84-33C9-4168-B14E-A478A4EB6A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60434B84-33C9-4168-B14E-A478A4EB6A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4A820D46-83DC-4360-AF16-24E37AB6C245} = {B361D2A5-D7E0-4D60-A6C4-E7BA57936872}
+		{60434B84-33C9-4168-B14E-A478A4EB6A83} = {B0224B03-C518-4999-B007-B2356426740A}
+		{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0} = {F53D97A1-806C-45D1-AFD8-770FA805BDEA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D918682E-53E7-4AE5-AC9F-CF719424FAE2}

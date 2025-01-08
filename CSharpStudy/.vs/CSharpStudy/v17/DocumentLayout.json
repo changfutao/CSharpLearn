@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A820D46-83DC-4360-AF16-24E37AB6C245}|CSharpLearn.BenchmarkDotNetDemo\\CSharpLearn.BenchmarkDotNetDemo.csproj|e:\\home\\csharp\\csharpdemo\\csharpstudy\\csharplearn.benchmarkdotnetdemo\\simpledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A820D46-83DC-4360-AF16-24E37AB6C245}|CSharpLearn.BenchmarkDotNetDemo\\CSharpLearn.BenchmarkDotNetDemo.csproj|solutionrelative:csharplearn.benchmarkdotnetdemo\\simpledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}|CSharpStudy.NewGrammer\\CSharpStudy.NewGrammer.csproj|e:\\home\\csharp\\csharpdemo\\csharpstudy\\csharpstudy.newgrammer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}|CSharpStudy.NewGrammer\\CSharpStudy.NewGrammer.csproj|solutionrelative:csharpstudy.newgrammer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}|CSharpStudy.NewGrammer\\CSharpStudy.NewGrammer.csproj|e:\\home\\csharp\\csharpdemo\\csharpstudy\\csharpstudy.newgrammer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}|CSharpStudy.NewGrammer\\CSharpStudy.NewGrammer.csproj|solutionrelative:csharpstudy.newgrammer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}|CSharpStudy.NewGrammer\\CSharpStudy.NewGrammer.csproj|e:\\home\\csharp\\csharpdemo\\csharpstudy\\csharpstudy.newgrammer\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}|CSharpStudy.NewGrammer\\CSharpStudy.NewGrammer.csproj|solutionrelative:csharpstudy.newgrammer\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}|CSharpStudy.NewGrammer\\CSharpStudy.NewGrammer.csproj|e:\\home\\csharp\\csharpdemo\\csharpstudy\\csharpstudy.newgrammer\\csharpstudy.newgrammer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8101A3F-5D7F-4C47-8B16-2C9671A6F1D0}|CSharpStudy.NewGrammer\\CSharpStudy.NewGrammer.csproj|solutionrelative:csharpstudy.newgrammer\\csharpstudy.newgrammer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60434B84-33C9-4168-B14E-A478A4EB6A83}|CSharpStudy.ReflectionDemo\\CSharpStudy.ReflectionDemo.csproj|e:\\home\\csharp\\csharpdemo\\csharpstudy\\csharpstudy.reflectiondemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60434B84-33C9-4168-B14E-A478A4EB6A83}|CSharpStudy.ReflectionDemo\\CSharpStudy.ReflectionDemo.csproj|solutionrelative:csharpstudy.reflectiondemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60434B84-33C9-4168-B14E-A478A4EB6A83}|CSharpStudy.ReflectionDemo\\CSharpStudy.ReflectionDemo.csproj|e:\\home\\csharp\\csharpdemo\\csharpstudy\\csharpstudy.reflectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60434B84-33C9-4168-B14E-A478A4EB6A83}|CSharpStudy.ReflectionDemo\\CSharpStudy.ReflectionDemo.csproj|solutionrelative:csharpstudy.reflectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A820D46-83DC-4360-AF16-24E37AB6C245}|CSharpLearn.BenchmarkDotNetDemo\\CSharpLearn.BenchmarkDotNetDemo.csproj|e:\\home\\csharp\\csharpdemo\\csharpstudy\\csharplearn.benchmarkdotnetdemo\\simpleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A820D46-83DC-4360-AF16-24E37AB6C245}|CSharpLearn.BenchmarkDotNetDemo\\CSharpLearn.BenchmarkDotNetDemo.csproj|solutionrelative:csharplearn.benchmarkdotnetdemo\\simpleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A820D46-83DC-4360-AF16-24E37AB6C245}|CSharpLearn.BenchmarkDotNetDemo\\CSharpLearn.BenchmarkDotNetDemo.csproj|e:\\home\\csharp\\csharpdemo\\csharpstudy\\csharplearn.benchmarkdotnetdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A820D46-83DC-4360-AF16-24E37AB6C245}|CSharpLearn.BenchmarkDotNetDemo\\CSharpLearn.BenchmarkDotNetDemo.csproj|solutionrelative:csharplearn.benchmarkdotnetdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A820D46-83DC-4360-AF16-24E37AB6C245}|CSharpLearn.BenchmarkDotNetDemo\\CSharpLearn.BenchmarkDotNetDemo.csproj|e:\\home\\csharp\\csharpdemo\\csharpstudy\\csharplearn.benchmarkdotnetdemo\\simpledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A820D46-83DC-4360-AF16-24E37AB6C245}|CSharpLearn.BenchmarkDotNetDemo\\CSharpLearn.BenchmarkDotNetDemo.csproj|solutionrelative:csharplearn.benchmarkdotnetdemo\\simpledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +46,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpStudy.NewGrammer\\Student.cs",
+              "RelativeDocumentMoniker": "CSharpStudy.NewGrammer\\Student.cs",
+              "ToolTip": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpStudy.NewGrammer\\Student.cs",
+              "RelativeToolTip": "CSharpStudy.NewGrammer\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:09:32.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpStudy.NewGrammer\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "CSharpStudy.NewGrammer\\GlobalUsing.cs",
+              "ToolTip": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpStudy.NewGrammer\\GlobalUsing.cs",
+              "RelativeToolTip": "CSharpStudy.NewGrammer\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:08:45.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSharpStudy.NewGrammer",
+              "DocumentMoniker": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpStudy.NewGrammer\\CSharpStudy.NewGrammer.csproj",
+              "RelativeDocumentMoniker": "CSharpStudy.NewGrammer\\CSharpStudy.NewGrammer.csproj",
+              "ToolTip": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpStudy.NewGrammer\\CSharpStudy.NewGrammer.csproj",
+              "RelativeToolTip": "CSharpStudy.NewGrammer\\CSharpStudy.NewGrammer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T03:08:21.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpStudy.NewGrammer\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpStudy.NewGrammer\\Program.cs",
+              "ToolTip": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpStudy.NewGrammer\\Program.cs",
+              "RelativeToolTip": "CSharpStudy.NewGrammer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:08:18.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpStudy.ReflectionDemo\\Person.cs",
+              "RelativeDocumentMoniker": "CSharpStudy.ReflectionDemo\\Person.cs",
+              "ToolTip": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpStudy.ReflectionDemo\\Person.cs",
+              "RelativeToolTip": "CSharpStudy.ReflectionDemo\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:49:07.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpStudy.ReflectionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpStudy.ReflectionDemo\\Program.cs",
+              "ToolTip": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpStudy.ReflectionDemo\\Program.cs",
+              "RelativeToolTip": "CSharpStudy.ReflectionDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:45:01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleOrder.cs",
+              "DocumentMoniker": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpLearn.BenchmarkDotNetDemo\\SimpleOrder.cs",
+              "RelativeDocumentMoniker": "CSharpLearn.BenchmarkDotNetDemo\\SimpleOrder.cs",
+              "ToolTip": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpLearn.BenchmarkDotNetDemo\\SimpleOrder.cs",
+              "RelativeToolTip": "CSharpLearn.BenchmarkDotNetDemo\\SimpleOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T00:15:32.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SimpleDemo.cs",
               "DocumentMoniker": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpLearn.BenchmarkDotNetDemo\\SimpleDemo.cs",
               "RelativeDocumentMoniker": "CSharpLearn.BenchmarkDotNetDemo\\SimpleDemo.cs",
               "ToolTip": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpLearn.BenchmarkDotNetDemo\\SimpleDemo.cs",
               "RelativeToolTip": "CSharpLearn.BenchmarkDotNetDemo\\SimpleDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:32:01.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T06:32:01.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpLearn.BenchmarkDotNetDemo\\Program.cs",
               "RelativeDocumentMoniker": "CSharpLearn.BenchmarkDotNetDemo\\Program.cs",
               "ToolTip": "E:\\home\\CSharp\\CSharpDemo\\CSharpStudy\\CSharpLearn.BenchmarkDotNetDemo\\Program.cs",
               "RelativeToolTip": "CSharpLearn.BenchmarkDotNetDemo\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:30:35.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T06:30:35.745Z"
             }
           ]
         }

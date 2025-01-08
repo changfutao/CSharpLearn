@@ -26,7 +26,8 @@ namespace CSharpLearn.BenchmarkDotNetDemo
     {
         static void Main(string[] args)
         {
-            BenchmarkRunner.Run<SimpleDemo>();
+            // BenchmarkRunner.Run<SimpleDemo>();
+            BenchmarkRunner.Run<SimpleOrder>();
             Console.ReadKey();
         }
     }
